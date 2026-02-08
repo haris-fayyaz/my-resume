@@ -58,7 +58,7 @@ The design focuses on:
 ## 🌐 Live Deployment
 
 ### 🔗 **Live Website:**
-**https://html-css-resume-hazel.vercel.app/**
+**https://my-resume-one-amber.vercel.app/**
 
 ### 📍 **Deployment Platform:** Vercel
 - **Auto-deployment** from GitHub repository
